@@ -1,7 +1,8 @@
-# Ethanolamine metabolism *E. coli*
+# Ethanolamine metabolism in *E. coli*
 
-This repository contains the model and data used for:
-- <sup>13</sup>C metabolic flux analysis of ethanolamine and glycerol co-metabolism in *Escherichia coli*, as detailed in the publication.
+This repository contains the models and data used for investigating ethanolamine and glycerol co-metabolism in *Escherichia coli*:
+- genome-scale model used for flux balance analysis
+- isotopic model used for <sup>13</sup>C metabolic flux analysis
 
 ## Isotopic model for <sup>13</sup>C-fluxomics 
 
